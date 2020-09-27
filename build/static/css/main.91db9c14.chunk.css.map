@@ -1,0 +1,1 @@
+{"version":3,"sources":["Todo.css","App.css"],"names":[],"mappings":"AAAA,MACI,YAAa,CACb,qBACF,CCHF,KACE,iBACF","file":"main.91db9c14.chunk.css","sourcesContent":[".todo {\r\n    padding: 20px;\r\n    border: 1px solid black;\r\n  }","body {\n  text-align: center;\n}"]}
